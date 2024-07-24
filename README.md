@@ -9,5 +9,3 @@ Las relaciones siempre son entre dos o más tablas.
 > Importante: Las claves foráneas deben tener los mismos tipos de datos y restricciones que las claves primarias a las que referencian.
 
 ![esquema entidad relacción](/img/schema_relacionship.png)
-
-[Esquema relaciones](/img/esquema.png)
