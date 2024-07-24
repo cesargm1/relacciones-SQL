@@ -9,4 +9,4 @@ Las relaciones siempre son entre 2 o más tablas
 > INPORTANTE : si tenemos 2 tablas con una relacción 1:1 y queremos relacionarlas tendremos que crear antes 1 de estas 2 tablas
 > y colocar la clave primaria de la otra tabla como campo de la tabla que aplicara la **FOREIGN KEY**
 
-![esquema entidad relacción](/img/esquema.png)
+![esquema entidad relacción](/img/schema_relacionship.png)
